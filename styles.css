@@ -1,0 +1,23 @@
+h1{
+    color:darkgreen;
+}
+u{
+    color: blueviolet;
+}
+hr{
+            
+    border-style: dotted none none;
+    border-color: #B9E9FC;
+    border-width: 5px;
+    height: 0px;
+    width : 30%;
+}
+img{
+    Background-color : red;
+    }
+    img:hover{
+    Background-color: green;
+    }
+#Heading{
+    color: rgb(93, 223, 202);
+}
